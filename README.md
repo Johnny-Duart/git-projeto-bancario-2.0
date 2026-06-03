@@ -58,7 +58,7 @@ Este projeto simula um sistema bancário completo, permitindo:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-user/nome-do-repo.git
+git clone https://github.com/Johnny-Duart/git-projeto-bancario-2.0.git
 cd nome-do-repo
 ```
 
